@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Tiro+Devanagari+Hindi&display=swap');
+body{
+    text-align: center;
+        background-color: white
+    
+    }
+
+
+nav{
+    background-color:rgb(20 184 166);
+    font-size: 1.5rem;
+    width: auto;
+    height: 25vh;
+    font-weight: bold;
+    color: aliceblue;
+    border-bottom-right-radius: 1rem;
+    text-align: auto;
+    padding-top: 2rem;
+
+    
+    
+}
+h1{
+    font-size: 4rem;
+
+}
+.link{
+    text-decoration: none;
+    padding: 0rem 0.5rem;
+    color:white;
+    font-size: 1.5rem;
+}
+#output{
+    font-size: 2rem;
+    font-weight: bold;
+    display: block;
+    padding: 2rem;
+}
+#checkbtn{
+    font-weight: bold;
+    padding: 0.5rem;
+    border-radius: 00.5rem;
+    background-color: white;
+}
+#checkbtn:hover{
+    background-color: rgb(20 184 166);
+}
+.quiz-ques{
+    font-weight: bold;
+    
+}
+#outputBox{
+    font-size: 2rem;
+    font-weight: bold;
+    display: block;
+    padding: 2rem;
+}
+#submitAnswer{
+    font-weight: bold;
+    padding: 0.5rem;
+    border-radius: 00.5rem;
+    background-color: white;
+}
+#submitAnswer:hover{
+    background-color: rgb(20 184 166);
+}
+#calculateHype{
+    font-weight: bold;
+    padding: 0.5rem;
+    border-radius: 00.5rem;
+    background-color: white;
+}
+#calculateHype:hover{
+    background-color: rgb(20 184 166);;
+}
+#outputtext{
+    font-size: 2rem;
+    font-weight: bold;
+    display: block;
+    padding: 2rem;
+}
+#checkarea{
+    font-weight: bold;
+    padding: 0.5rem;
+    border-radius: 00.5rem;
+    background-color: white;
+}
+#checkarea:hover{
+    background-color: rgb(20 184 166);
+}
+.heading{
+    font-style: italic;
+    text-decoration: underline;
+    font-size: 2rem;
+}
